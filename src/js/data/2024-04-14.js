@@ -582,3 +582,4 @@ dataSet[dataSetVersion].characterData = [
     img: "steve.png",
     opts: { series: ["book"], stage: [] }
   }
+  ];
