@@ -11,28 +11,36 @@ dataSet[dataSetVersion].options = [
       { name: "Cherry Magic", key: "CM" },
       { name: "Enchante", key: "E" },
       { name: "Pit Babe", key: "PB" },
-      { name: "Phantasmagoria of Dim.Dream", tooltip: "03 - Yumejikuu", key: "PoDD" },
-      { name: "Lotus Land Story", tooltip: "04 - Gensoukyou", key: "LLS" },
-      { name: "Mystic Square", tooltip: "05 - Kaikidan", key: "MS" },
-      { name: "Embodiment of Scarlet Devil", tooltip: "06 - Koumakan", key: "EoSD" },
-      { name: "Perfect Cherry Blossom", tooltip: "07 - Youyoumu", key: "PCB" },
-      { name: "Immaterial and Missing Power", tooltip: "07.5 - Suimusou", key: "IaMP" },
-      { name: "Imperishable Night", tooltip: "08 - Eiyashou", key: "IN" },
-      { name: "Phantasmagoria of Flower View", tooltip: "09 - Kaeidzuka", key: "PoFV" },
-      { name: "Shoot the Bullet", tooltip: "09.5 - Bunkachou", key: "StB" },
-      { name: "Mountain of Faith", tooltip: "10 - Fuujinroku", key: "MoF" },
-      { name: "Scarlet Weather Rhapsody", tooltip: "10.5 - Hisouten", key: "SWR" },
-      { name: "Subterranean Animism", tooltip: "11 - Chireiden", key: "SA" },
-      { name: "Undefined Fantastic Object", tooltip: "12 - Seirensen", key: "UFO" },
-      { name: "Touhou Hisoutensoku", tooltip: "12.3 - Hisoutensoku", key: "Soku" },
-      { name: "Double Spoiler", tooltip: "12.5 - Bunkachou", key: "DS" },
-      { name: "Great Fairy Wars", tooltip: "12.8 - Daisensou", key: "GFW" },
-      { name: "Ten Desires", tooltip: "13 - Shinreibyou", key: "TD" },
-      { name: "Hopeless Masquerade", tooltip: "13.5 - Shinkirou", key: "HM" },
-      { name: "Double Dealing Character", tooltip: "14 - Kishinjou", key: "DDC" },
-      { name: "Impossible Spell Card", tooltip: "14.3 - Amanojaku", key: "ISC" },
-      { name: "Urban Legend in Limbo", tooltip: "14.5 - Shinpiroku", key: "ULiL" },
-      { name: "Legacy of Lunatic Kingdom", tooltip: "15 - Kanjuden", key: "LoLK" }
+      { name: "Bates Motel", key: "BM" },
+      { name: "Lord of the Rings", key: "LOtR" },
+      { name: "Children of Nobody", key: "CoN" },
+      { name: "Sotus", key: "S" },
+      { name: "Inception", key: "I" },
+      { name: "Merlin", key: "M" },
+      { name: "At Eighteen", key: "AE" },
+      { name: "See", key: "See" },
+      { name: "Extraordinary You", key: "EY" },
+      { name: "Blueming", key: "B" },
+      { name: "The 100", key: "T1" },
+      { name: "The Queen's Gambit", key: "TQG" },
+      { name: "Not Me", key: "NM" },
+      { name: "Gossip Girl", key: "GG" },
+      { name: "Dumplin'", key: "D" },
+      { name: "My Engineer", key: "ME" },
+      { name: "One Tree Hill", key: "OTH" },
+      { name: "Harry Potter", key: "HP" },
+      { name: "Friends", key: "F" },
+      { name: "Hawaii 5-0", key: "H50" },
+      { name: "Frontier", key: "FT" },
+      { name: "Teen Wolf", key: "TW" }
+      { name: "Beyond Evil", key: "BE" }
+      { name: "Our Flag Means Death", key: "OFMD" }
+      { name: "9-1-1", key: "911" }
+      { name: "Bridgerton", key: "BG" }
+      { name: "The Society", key: "TS" }
+      { name: "Hannibal", key: "H" }
+      { name: "Kingsman", key: "K" }
+      { name: "The Guest", key: "TG" }
     ]
   },
   {
