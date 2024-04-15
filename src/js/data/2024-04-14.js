@@ -118,7 +118,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Baekhyun",
-    img: "Baekkyun (1).png",
+    img: "m3iltML.png",
     opts: {
       series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "MoF", "Soku", "HM", "DDC", "ISC"
       ],
@@ -350,7 +350,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kang Gook",
-    img: "Kang Gook (1).png",
+    img: "JRka6ff.png",
     opts: { series: ["SA", "DS"], stage: ["st1"] }
   },
   {
@@ -455,7 +455,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ron Weasley",
-    img: "Ron.png",
+    img: "BvRy423.png",
     opts: { series: ["TD", "HM", "ISC"], stage: ["st4"] }
   },
   {
@@ -470,7 +470,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Shawn Hunter",
-    img: "Shawn.png",
+    img: "LXALO2L.png",
     opts: { series: ["TD", "HM", "ISC", "ULiL"], stage: ["st6"] }
   },
   {
@@ -480,7 +480,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Yeon Sieun",
-    img: "Sieun (1).png",
+    img: "Jp8YrAA.png",
     opts: { series: ["book", "HM", "ULiL"], stage: ["st6"] }
   },
   {
