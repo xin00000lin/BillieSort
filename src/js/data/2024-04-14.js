@@ -443,6 +443,6 @@ dataSet[dataSetVersion].characterData = [
     img: "rRQkiyI.png",
     opts: { series: ["180DLPTU"], stage: ["st5"] }
   },
-  { name: "Ma Hwiyoung", img: "wGprfbc.png", opts: { series: ["AE"], stage: [] } },
+  { name: "Ma Hwiyoung", img: "wGprfbc.png", opts: { series: ["AE"], stage: [] } 
   },
   ];
