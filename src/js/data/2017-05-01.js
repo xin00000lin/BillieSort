@@ -9,7 +9,7 @@ dataSet[dataSetVersion].options = [
     checked: false,
     sub: [
       { name: "Cherry Magic", key: "CM" },
-      { name: "Enchante", key: "HRtP" },
+      { name: "Enchante", key: "E" },
       { name: "Pit Babe", key: "PB" },
       { name: "Phantasmagoria of Dim.Dream", tooltip: "03 - Yumejikuu", key: "PoDD" },
       { name: "Lotus Land Story", tooltip: "04 - Gensoukyou", key: "LLS" },
