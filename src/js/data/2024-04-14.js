@@ -121,7 +121,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Akk",
-    img: "Akk.png",
+    img: "yVtiEhn.png",
     opts: {
       series: ["E"],
       stage: ["st4", "ex"]
@@ -134,12 +134,12 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Alex Romero",
-    img: "Alex (1).png",
+    img: "dTu8VYz.png",
     opts: { series: ["BM"], stage: ["st2", "ex"] }
   },
   {
     name: "Aragorn",
-    img: "Aragorn1.png",
+    img: "0WVA2LI.png",
     opts: {
       series: [ "LoTR"
       ],
@@ -148,17 +148,17 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Arthur",
-    img: "Arthut I.png",
+    img: "AHkV1lu.png",
     opts: { series: ["I"], stage: ["st3"] }
   },
   {
     name: "Arthur Pendragon",
-    img: "Arthut.png",
+    img: "yXcjSkD.png",
     opts: { series: ["M"], stage: ["st4"] }
   },
   {
     name: "Baba Voss",
-    img: "Baba Voss.png",
+    img: "637uYiE.png",
     opts: {
       series: ["See"],
       stage: ["st4", "ex"]
@@ -166,7 +166,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Baekhyun",
-    img: "m3iltML.png",
+    img: "i9FagzQ.png",
     opts: {
       series: [ "EY"
       ],
@@ -183,17 +183,17 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Bellamy Blake",
-    img: "Bellamy (1).png",
+    img: "b3JcKKn.png",
     opts: { series: ["T1"], stage: ["ex"] }
   },
   {
     name: "Beth Harmon",
-    img: "Beth (1).png",
+    img: "wDe8eOh.png",
     opts: { series: ["TQG"], stage: ["st1"] }
   },
   {
     name: "Black",
-    img: "Black (1).png",
+    img: "aAnR0Av.png",
     opts: {
       series: ["NM"],
       stage: ["st2", "ex"]
