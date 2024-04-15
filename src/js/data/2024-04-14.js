@@ -41,6 +41,44 @@ dataSet[dataSetVersion].options = [
       { name: "Hannibal", key: "H" }
       { name: "Kingsman", key: "K" }
       { name: "The Guest", key: "TG" }
+      { name: "The Merciless", key: "TM" }
+      { name: "My Love Mix Up", key: "MLMU" }
+      { name: "The Eighth Sense", key: "TES" }
+      { name: "Semantic Error", key: "SE" }
+      { name: "Dirty Dancing Havana Nights", key: "DDHN" }
+      { name: "Vampire Diaries", key: "VD" }
+      { name: "Mighty Joe Young", key: "MJY" }
+      { name: "Outer Banks", key: "OB" }
+      { name: "Strangers from Hell", key: "SfH" }
+      { name: "True Beauty", key: "TB" }
+      { name: "Legend of the Seeker", key: "LotS" }
+      { name: "Where Your Eyes Linger", key: "WYEL" }
+      { name: "Sky in Your Heart", key: "SiYH" }
+      { name: "That 70's Show", key: "T7S" }
+      { name: "Kinnporsche", key: "KP" }
+      { name: "Fruits Basket", key: "FB" }
+      { name: "Dark Blue Kiss", key: "DBK" }
+      { name: "Mr. Unlucky Has No Choice But to Kiss", key: "MUHNCBTK" }
+      { name: "Fear the Walking Dead", key: "FTWD" }
+      { name: "Bad Buddy", key: "BB" }
+      { name: "Love in the Air", key: "LitA" }
+      { name: "1000 Stars", key: "1S" }
+      { name: "Ella Enchanted", key: "EE" }
+      { name: "My Mad Fat Diary", key: "MMFD" }
+      { name: "The Walking Dead", key: "TWD" }
+      { name: "To My Star", key: "TMS" }
+      { name: "Boy Meets World", key: "BMW" }
+      { name: "We Best Love", key: "WBL" }
+      { name: "Weak Hero Class 1", key: "WHC1" }
+      { name: "Strangers", key: "St" }
+      { name: "A Shoulder to Cry On", key: "AStCO" }
+      { name: "My Name", key: "MN" }
+      { name: "I Told Sunset About You", key: "ITSAY" }
+      { name: "My School President", key: "MSP" }
+      { name: "Shameless", key: "SM" }
+      { name: "180 degrees Longitude Passes Through Us", key: "180DLPTU" }
+      { name: "Together With Me", key: "TWM" }
+      { name: "One Piece", key: "OP" }
     ]
   },
   {
