@@ -109,7 +109,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Akk",
-    img: "Akk.png",
+    img: "yVtiEhn.png",
     opts: {
       series: ["E"],
       stage: ["st4", "ex"]
@@ -122,12 +122,12 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Alex Romero",
-    img: "Alex (1).png",
+    img: "dTu8VYz.png",
     opts: { series: ["BM"], stage: ["st2", "ex"] }
   },
   {
     name: "Aragorn",
-    img: "Aragorn1.png",
+    img: "0WVA2LI.png",
     opts: {
       series: [ "LoTR"
       ],
@@ -136,17 +136,17 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Arthur",
-    img: "Arthut I.png",
+    img: "AHkV1lu.png",
     opts: { series: ["I"], stage: ["st3"] }
   },
   {
     name: "Arthur Pendragon",
-    img: "Arthut.png",
+    img: "yXcjSkD.png",
     opts: { series: ["M"], stage: ["st4"] }
   },
   {
     name: "Baba Voss",
-    img: "Baba Voss.png",
+    img: "637uYiE.png",
     opts: {
       series: ["See"],
       stage: ["st4", "ex"]
@@ -154,7 +154,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Baekhyun",
-    img: "m3iltML.png",
+    img: "i9FagzQ.png",
     opts: {
       series: [ "EY"
       ],
@@ -163,7 +163,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Bawoo",
-    img: "Bawoo (1).png",
+    img: "qLawwaX.png",
     opts: {
       series: ["B"],
       stage: ["st6"]
@@ -171,17 +171,17 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Bellamy Blake",
-    img: "Bellamy (1).png",
+    img: "b3JcKKn.png",
     opts: { series: ["T1"], stage: ["ex"] }
   },
   {
     name: "Beth Harmon",
-    img: "Beth (1).png",
+    img: "wDe8eOh.png",
     opts: { series: ["TQG"], stage: ["st1"] }
   },
   {
     name: "Black",
-    img: "Black (1).png",
+    img: "aAnR0Av.png",
     opts: {
       series: ["NM"],
       stage: ["st2", "ex"]
@@ -189,7 +189,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Blaire Waldorf",
-    img: "Blaire.png",
+    img: "fNF9qnY.png",
     opts: {
       series: ["GG"],
       stage: ["st3"]
@@ -197,27 +197,27 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Bo",
-    img: "Bo (1).png",
+    img: "HrGK5DT.png",
     opts: { series: ["D", "HM"], stage: ["st4", "ex"] }
   },
   {
     name: "Boss",
-    img: "Boss.png",
+    img: "CDIqXxU.png",
     opts: { series: ["ME"], stage: ["st4"] }
   },
   {
     name: "Brooke Davis",
-    img: "Brooke.png",
+    img: "UvVyskn.png",
     opts: { series: ["OTH"], stage: ["st4"] }
   },
   {
     name: "Cedric Diggory",
-    img: "Cedric (1).png",
+    img: "VRDdSYf.png",
     opts: { series: ["HP"], stage: ["st4"] }
   },
   {
     name: "Chandler Bing",
-    img: "Chandler1.png",
+    img: "M2ErVQ4.png",
     opts: {
       series: [ "F"
       ],
@@ -226,7 +226,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Danny Williams",
-    img: "Danny.png",
+    img: "TUSE2Ta.png",
     opts: {
       series: [ "H50"
       ],
@@ -235,7 +235,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Declan Harp",
-    img: "Declan (1).png",
+    img: "K7Pzcqo.png",
     opts: {
       series: ["FT"],
       stage: ["ex"]
@@ -243,7 +243,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Derek Hale",
-    img: "Derek (1).png",
+    img: "q9fUjF5.png",
     opts: {
       series: ["TW"],
       stage: ["ex"]
@@ -251,7 +251,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Lee Dongsik",
-    img: "Dongsik (1).png",
+    img: "mLx3MJn.png",
     opts: {
       series: ["BE"],
       stage: ["st6"]
@@ -259,27 +259,27 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Draco Malfoy",
-    img: "Draco.png",
+    img: "e1U16oU.png",
     opts: { series: ["HP"], stage: ["st1"] }
   },
   {
     name: "Ed Teech",
-    img: "Ed.png",
+    img: "V2GqJbZ.png",
     opts: { series: ["OFMD"], stage: ["st2"] }
   },
   {
     name: "Eddie Diaz",
-    img: "Eddie.png",
+    img: "vimzs1F.png",
     opts: { series: ["911"], stage: ["st3", "ex"] }
   },
   {
     name: "Eloise Bridgerton",
-    img: "Eloise.png",
+    img: "AoBD9CH.png",
     opts: { series: ["BG"], stage: ["st5"] }
   },
   {
     name: "Lee Eunho",
-    img: "Eunho (1).png",
+    img: "uO1177I.png",
     opts: {
       series: ["CoN"],
       stage: ["st5"]
@@ -287,22 +287,22 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Faramir",
-    img: "Faramir.png",
+    img: "FD1rKSq.png",
     opts: { series: ["LoTR"], stage: ["st6"] }
   },
   {
     name: "Gareth Visser",
-    img: "Grizz (1).png",
+    img: "5ZSM98w.png",
     opts: { series: ["TS"], stage: ["st6"] }
   },
   {
     name: "Hannibal Lecter",
-    img: "Hannibal (1).png",
+    img: "SFmc4YO.png",
     opts: { series: ["H"], stage: ["ex"] }
   },
   {
     name: "Harry Hart",
-    img: "Harry (1).png",
+    img: "AgzbE6M.png",
     opts: {
       series: ["K"],
       stage: ["st4"]
@@ -310,17 +310,17 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Yoon Hwapyung",
-    img: "Hwapyung.png",
+    img: "J3n1fsv.png",
     opts: { series: ["TG"], stage: ["st4"] }
   },
   {
     name: "Jo Hyunsoo",
-    img: "Hyunsoo (1).png",
+    img: "roaLGP2.png",
     opts: { series: ["TM"], stage: ["st5"] }
   },
   {
     name: "Ida Kousuke",
-    img: "Ida.png",
+    img: "i0tBfjG.png",
     opts: {
       series: ["MLMU"],
       stage: ["st5"]
@@ -328,61 +328,28 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "JJ Maybank",
-    img: "JJ (1).png",
+    img: "2X3bh8t.png",
     opts: { series: ["OB"], stage: ["st6"] }
   },
   {
     name: "Seo Jaewon",
-    img: "Jaewon (1).png",
+    img: "JdX6Fqq.png",
     opts: { series: ["TES"], stage: ["st1"] }
   },
   {
     name: "Jang Jaeyoung",
-    img: "Jaeyoung.png",
+    img: "Q1SkmtB.png",
     opts: { series: ["SE"], stage: ["st1"] }
   },
   {
-    name: "Javier Suarez",
-    img: "Javier.png",
-    opts: { series: ["DDHN"], stage: ["st2"] }
-  },
-  {
-    name: "Jeremy Gilbert",
-    img: "Jeremy.png",
-    opts: { series: ["VD"], stage: ["st3"] }
-  },
-  {
     name: "Jill Young",
-    img: "Jill.png",
+    img: "ZYbRZsK.png",
     opts: { series: ["MJY"], stage: ["st4"] }
   },
   {
-    name: "Jim",
-    img: "Jim.png",
-    opts: {
-      series: ["OFMD"],
-      stage: ["st5", "ex"]
-    }
-  },
-  {
-    name: "Joey Tribbiani",
-    img: "Joey (1).png",
-    opts: { series: ["F"], stage: ["st6", "ex"] }
-  },
-  {
     name: "Yoon Jongwoo",
-    img: "Jongwoo (1).png",
+    img: "XhiiKT6.png",
     opts: { series: ["SfH"], stage: ["ex"] }
-  },
-  {
-    name: "Lim Jugyeong",
-    img: "Jugyeong.png",
-    opts: { series: ["TB"], stage: ["st5"] }
-  },
-  {
-    name: "Kahlan Amnell",
-    img: "Kahlan (1).png",
-    opts: { series: ["LoTS"], stage: ["st6"] }
   },
   {
     name: "Kang Gook",
@@ -390,103 +357,28 @@ dataSet[dataSetVersion].characterData = [
     opts: { series: ["WYEL"], stage: ["st1"] }
   },
   {
-    name: "Kaofah",
-    img: "Kaofah.png",
-    opts: { series: ["SiYH"], stage: ["st1"] }
-  },
-  {
     name: "Michael Kelso",
-    img: "Kelso.png",
+    img: "IoLNLnq.png",
     opts: { series: ["T7S"], stage: ["st2"] }
   },
   {
     name: "Kinn",
-    img: "Kinn.png",
+    img: "C6AiHKx.png",
     opts: { series: ["KP"], stage: ["st3"] }
   },
   {
-    name: "Kurosawa Yuichi",
-    img: "Kurosawa.png",
-    opts: { series: ["CM"], stage: ["st4"] }
-  },
-  {
     name: "Kyo Sohma",
-    img: "Kyo (1).png",
+    img: "Bq4Xn8v.png",
     opts: { series: ["FB"], stage: ["st4", "st5", "st6"] }
   },
   {
-    name: "Legolas",
-    img: "Legolas.png",
-    opts: { series: ["LoTR"], stage: ["st6"] }
-  },
-  {
     name: "Seo Moonjo",
-    img: "Moonjo.png",
+    img: "ef5JWFH.png",
     opts: { series: ["SfH"], stage: ["ex"] }
   },
   {
-    name: "Mork",
-    img: "Mork.png",
-    opts: { series: ["DBK"], stage: ["st1", "st5"] }
-  },
-  {
-    name: "Naoya Shinomiya",
-    img: "Naoya.png",
-    opts: { series: ["MUHNCBTK"], stage: ["st2", "ex"] }
-  },
-  {
-    name: "Nick Clark",
-    img: "Nick C.png",
-    opts: { series: ["FTWD"], stage: ["st3"] }
-  },
-  {
-    name: "Pa",
-    img: "Pa.png",
-    opts: { series: ["BB"], stage: ["st4"] }
-  },
-  {
-    name: "Phayu",
-    img: "Phayu.png",
-    opts: { series: ["LitA"], stage: ["st5"] }
-  },
-  {
-    name: "Phupha",
-    img: "Phupha.png",
-    opts: { series: ["1S"], stage: ["st6"] }
-  },
-  {
-    name: "Pran",
-    img: "Pran.png",
-    opts: { series: ["BB"], stage: ["st4", "st6", "ex"] }
-  },
-  {
-    name: "Prapai",
-    img: "Prapai.png",
-    opts: { series: ["LitA"], stage: ["ex"] }
-  },
-  {
-    name: "Prince Charmont",
-    img: "Prince Char (1).png",
-    opts: { series: ["EE"], stage: ["st1", "st2", "st3"] }
-  },
-  {
-    name: "Prince",
-    img: "Prince.png",
-    opts: { series: ["SiYH"], stage: ["st1", "st2", "st3"] }
-  },
-  {
-    name: "Rachel Green",
-    img: "Rachel (1).png",
-    opts: { series: ["F"], stage: ["st1", "st2", "st3"] }
-  },
-  {
-    name: "Rae Earl",
-    img: "Rae.png",
-    opts: { series: ["MMFD"], stage: ["st2"] }
-  },
-  {
     name: "Rick Grimes",
-    img: "Rick.png",
+    img: "KG1JmRG.png",
     opts: { series: ["TWD"], stage: ["st3", "st4"] }
   },
   {
@@ -496,12 +388,12 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kang Seojoon",
-    img: "Seojoon.png",
+    img: "sJvTaOL.png",
     opts: { series: ["TMS"], stage: ["st5"] }
   },
   {
     name: "Han Seojun",
-    img: "Seojun.png",
+    img: "BhXeO5T.png",
     opts: { series: ["TB"], stage: ["st5"] }
   },
   {
@@ -511,7 +403,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Zhou Shuyi",
-    img: "Shuyi (1).png",
+    img: "cMTO4H9.png",
     opts: { series: ["WBL"], stage: ["ex"] }
   },
   {
@@ -520,94 +412,25 @@ dataSet[dataSetVersion].characterData = [
     opts: { series: ["WHC1"], stage: ["st6"] }
   },
   {
-    name: "Hwang Simok",
-    img: "Simok.png",
-    opts: { series: ["St"], stage: ["st1"] }
-  },
-  {
-    name: "Sirius Black",
-    img: "Sirius (1).png",
-    opts: { series: ["HP"], stage: ["st2"] }
-  },
-  {
-    name: "Cha Siwon",
-    img: "Siwon.png",
-    opts: { series: ["B"], stage: ["st3"] }
-  },
-  {
-    name: "Stiles Stilinski",
-    img: "Stiles.png",
-    opts: { series: ["TW"], stage: ["st4", "ex"] }
-  },
-  {
-    name: "Jo Taehyun",
-    img: "Taehyun (1).png",
-    opts: { series: ["AStCO"], stage: ["st4", "ex"] }
-  },
-  {
-    name: "Han Taejoo",
-    img: "Taejoo.png",
-    opts: { series: ["WYEL"], stage: ["st5", "st6"] }
-  },
-  {
-    name: "Jung Taeju",
-    img: "Taeju (1).png",
-    opts: { series: ["MN"], stage: ["st6"] }
-  },
-  {
     name: "Teh",
-    img: "Teh.png",
+    img: "YgQxy5w.png",
     opts: { series: ["ITSAY"], stage: ["ex"] }
   },
   {
     name: "Tinn",
-    img: "Tinn.png",
+    img: "cpPljTR.png",
     opts: { series: ["MSP"], stage: ["st6"] }
   },
   {
     name: "Todd",
-    img: "Todd.png",
+    img: "HadBceF.png",
     opts: { series: ["NM"], stage: ["st1"] }
   },
   {
-    name: "Topanga Lawrence",
-    img: "Topanga.png",
-    opts: { series: ["BMW"], stage: ["st2"] }
-  },
-  {
-    name: "Vegas",
-    img: "Vegas (1).png",
-    opts: { series: ["KP"], stage: ["st3", "ex"] }
-  },
-  {
-    name: "Veronica Fisher",
-    img: "Veronica.png",
-    opts: { series: ["SM"], stage: ["st4"] }
-  },
-  {
     name: "Wang",
-    img: "Wang (1).png",
+    img: "rRQkiyI.png",
     opts: { series: ["180DLPTU"], stage: ["st5"] }
   },
-  {
-    name: "Yihwa",
-    img: "Yihwa.png",
-    opts: { series: ["TWM"], stage: ["st6", "ex"] }
-  },
-  {
-    name: "Choi Yuna",
-    img: "Yuna (1).png",
-    opts: { series: ["SE"], stage: ["ex"] }
-  },
-  {
-    name: "Roronoa Zoro",
-    img: "Zoro (1).png",
-    opts: { series: ["OP"], stage: [] }
-  },
-  { name: "Ma Hwiyoung", img: "at18-03.png", opts: { series: ["AE"], stage: [] } },
-  {
-    name: "Steve McGarret",
-    img: "steve.png",
-    opts: { series: ["H50"], stage: [] }
+  { name: "Ma Hwiyoung", img: "wGprfbc.png", opts: { series: ["AE"], stage: [] } },
   }
   ];
