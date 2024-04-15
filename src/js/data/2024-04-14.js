@@ -75,7 +75,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Kiyoshi Adachi",
     img: "Adachi.png",
     opts: {
-      series: ["book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "MoF", "SWR", "SA", "UFO", "Soku", "DS", "TD", "HM", "DDC", "ISC", "ULiL", "LoLK"],
+      series: ["CM"],
       stage: ["st4"]
     }
   },
@@ -83,25 +83,25 @@ dataSet[dataSetVersion].characterData = [
     name: "Akk",
     img: "Akk.png",
     opts: {
-      series: ["book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "MoF", "SWR", "SA", "UFO", "Soku", "DS", "GFW", "TD", "HM", "DDC", "ISC", "ULiL", "LoLK"],
+      series: ["E"],
       stage: ["st4", "ex"]
     }
   },
   {
     name: "Alan",
     img: "Alan.png",
-    opts: { series: ["book", "EoSD", "StB", "HM"], stage: ["st1"] }
+    opts: { series: ["PB"], stage: ["st1"] }
   },
   {
     name: "Alex Romero",
     img: "Alex (1).png",
-    opts: { series: ["book", "EoSD"], stage: ["st2", "ex"] }
+    opts: { series: ["BM"], stage: ["st2", "ex"] }
   },
   {
     name: "Aragorn",
     img: "Aragorn1.png",
     opts: {
-      series: [ "book", "EoSD", "PCB", "PoFV", "StB", "Soku", "GFW", "HM", "DDC", "ISC"
+      series: [ "LoTR"
       ],
       stage: ["st2"]
     }
@@ -109,18 +109,18 @@ dataSet[dataSetVersion].characterData = [
   {
     name: "Arthur",
     img: "Arthut I.png",
-    opts: { series: ["book", "EoSD", "IaMP", "StB", "Soku"], stage: ["st3"] }
+    opts: { series: ["I"], stage: ["st3"] }
   },
   {
     name: "Arthur Pendragon",
     img: "Arthut.png",
-    opts: { series: ["book", "EoSD"], stage: ["st4"] }
+    opts: { series: ["M"], stage: ["st4"] }
   },
   {
     name: "Baba Voss",
     img: "Baba Voss.png",
     opts: {
-      series: ["book", "EoSD", "IaMP", "StB", "MoF", "Soku", "HM"],
+      series: ["See"],
       stage: ["st4", "ex"]
     }
   },
@@ -128,7 +128,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Baekhyun",
     img: "m3iltML.png",
     opts: {
-      series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "MoF", "Soku", "HM", "DDC", "ISC"
+      series: [ "EY"
       ],
       stage: ["st5", "st6"]
     }
@@ -137,25 +137,25 @@ dataSet[dataSetVersion].characterData = [
     name: "Bawoo",
     img: "Bawoo (1).png",
     opts: {
-      series: ["book", "EoSD", "IaMP", "IN", "StB", "MoF", "Soku", "HM", "ISC"],
+      series: ["B"],
       stage: ["st6"]
     }
   },
   {
     name: "Bellamy Blake",
     img: "Bellamy (1).png",
-    opts: { series: ["book", "EoSD", "StB"], stage: ["ex"] }
+    opts: { series: ["T1"], stage: ["ex"] }
   },
   {
     name: "Beth Harmon",
     img: "Beth (1).png",
-    opts: { series: ["book", "PCB", "StB", "HM"], stage: ["st1"] }
+    opts: { series: ["TQG"], stage: ["st1"] }
   },
   {
     name: "Black",
     img: "Black (1).png",
     opts: {
-      series: ["book", "PCB", "IaMP", "StB", "MoF", "Soku", "HM"],
+      series: ["NM"],
       stage: ["st2", "ex"]
     }
   },
