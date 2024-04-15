@@ -42,6 +42,7 @@ dataSet[dataSetVersion].options = [
       { name: "Kingsman", key: "K" }
       { name: "The Guest", key: "TG" }
     ]
+  },
   {
     name: "Filter by Stage Enemy Appearances",
     key: "stage",
