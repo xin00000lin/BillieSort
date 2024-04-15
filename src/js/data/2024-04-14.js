@@ -73,7 +73,7 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
   {
     name: "Kiyoshi Adachi",
-    img: "Adachi.png",
+    img: "Luxc8Lx.png",
     opts: {
       series: ["CM"],
       stage: ["st4"]
@@ -89,7 +89,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Alan",
-    img: "Alan.png",
+    img: "FbdKoSa.png",
     opts: { series: ["PB"], stage: ["st1"] }
   },
   {
