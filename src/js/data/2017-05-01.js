@@ -57,18 +57,6 @@ dataSet[dataSetVersion].options = [
       { name: "Stage 6/Final", key: "st6" },
       { name: "Stage EX/Phantasm", key: "ex" }
     ]
-  },
-  {
-    name: "Remove PC-98 Duplicates",
-    key: "pc98",
-    tooltip: "Check this to remove PC-98 characters with a Windows counterpart.",
-    checked: false,
-  },
-  {
-    name: "Remove Non-Girls",
-    key: "notgirl",
-    tooltip: "Check this to remove all non-female characters.",
-    checked: false,
   }
 ];
 
