@@ -203,35 +203,35 @@ dataSet[dataSetVersion].characterData = [
     name: "Blaire Waldorf",
     img: "Blaire.png",
     opts: {
-      series: ["book", "PCB", "IaMP", "IN", "StB", "MoF", "Soku", "HM"],
+      series: ["GG"],
       stage: ["st3"]
     }
   },
   {
     name: "Bo",
     img: "Bo (1).png",
-    opts: { series: ["book", "PCB", "PoFV", "HM"], stage: ["st4", "ex"] }
+    opts: { series: ["D", "HM"], stage: ["st4", "ex"] }
   },
   {
     name: "Boss",
     img: "Boss.png",
-    opts: { series: ["book", "PCB", "PoFV", "HM"], stage: ["st4"] }
+    opts: { series: ["ME"], stage: ["st4"] }
   },
   {
     name: "Brooke Davis",
     img: "Brooke.png",
-    opts: { series: ["book", "PCB", "PoFV", "HM"], stage: ["st4"] }
+    opts: { series: ["OTH"], stage: ["st4"] }
   },
   {
     name: "Cedric Diggory",
     img: "Cedric (1).png",
-    opts: { series: ["book", "PCB", "PoFV", "HM"], stage: ["st4"] }
+    opts: { series: ["HP"], stage: ["st4"] }
   },
   {
     name: "Chandler Bing",
     img: "Chandler1.png",
     opts: {
-      series: [ "book", "PCB", "IaMP", "IN", "PoFV", "StB", "MoF", "Soku", "TD", "HM", "ISC"
+      series: [ "F"
       ],
       stage: ["st5", "st6"]
     }
@@ -240,7 +240,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Danny Williams",
     img: "Danny.png",
     opts: {
-      series: [ "book", "PCB", "IaMP", "IN", "StB", "MoF", "Soku", "TD", "HM", "ISC"
+      series: [ "H50"
       ],
       stage: ["st1", "st6"]
     }
@@ -249,7 +249,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Declan Harp",
     img: "Declan (1).png",
     opts: {
-      series: ["book", "PCB", "IaMP", "IN", "StB", "MoF", "Soku", "HM"],
+      series: ["FT"],
       stage: ["ex"]
     }
   },
@@ -257,7 +257,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Derek Hale",
     img: "Derek (1).png",
     opts: {
-      series: ["book", "PCB", "IaMP", "IN", "StB", "MoF", "Soku", "HM", "ISC"],
+      series: ["TW"],
       stage: ["ex"]
     }
   },
@@ -265,361 +265,361 @@ dataSet[dataSetVersion].characterData = [
     name: "Lee Dongsik",
     img: "Dongsik (1).png",
     opts: {
-      series: ["book", "IaMP", "StB", "MoF", "Soku", "DS", "HM", "ISC"],
+      series: ["BE"],
       stage: ["st6"]
     }
   },
   {
     name: "Draco Malfoy",
     img: "Draco.png",
-    opts: { series: ["book", "IN", "StB", "HM"], stage: ["st1"] }
+    opts: { series: ["HP"], stage: ["st1"] }
   },
   {
     name: "Ed Teech",
     img: "Ed.png",
-    opts: { series: ["book", "IN", "PoFV", "StB", "HM"], stage: ["st2"] }
+    opts: { series: ["OFMD"], stage: ["st2"] }
   },
   {
     name: "Eddie Diaz",
     img: "Eddie.png",
-    opts: { series: ["book", "IN", "StB", "HM", "ISC"], stage: ["st3", "ex"] }
+    opts: { series: ["911"], stage: ["st3", "ex"] }
   },
   {
     name: "Eloise Bridgerton",
     img: "Eloise.png",
-    opts: { series: ["book", "IN", "PoFV", "StB", "HM"], stage: ["st5"] }
+    opts: { series: ["BG"], stage: ["st5"] }
   },
   {
     name: "Lee Eunho",
     img: "Eunho (1).png",
     opts: {
-      series: ["book", "IN", "PoFV", "StB", "Soku", "HM", "LoLK"],
+      series: ["CoN"],
       stage: ["st5"]
     }
   },
   {
     name: "Faramir",
     img: "Faramir.png",
-    opts: { series: ["book", "IN", "StB", "HM"], stage: ["st6"] }
+    opts: { series: ["LoTR"], stage: ["st6"] }
   },
   {
     name: "Gareth Visser",
     img: "Grizz (1).png",
-    opts: { series: ["book", "IN", "StB", "HM"], stage: ["st6"] }
+    opts: { series: ["TS"], stage: ["st6"] }
   },
   {
     name: "Hannibal Lecter",
     img: "Hannibal (1).png",
-    opts: { series: ["book", "IN", "StB", "HM", "ISC", "ULiL"], stage: ["ex"] }
+    opts: { series: ["H"], stage: ["ex"] }
   },
   {
     name: "Harry Hart",
     img: "Harry (1).png",
     opts: {
-      series: ["book", "PoFV", "StB", "MoF", "SWR", "Soku", "HM", "ISC"],
+      series: ["K"],
       stage: ["st4"]
     }
   },
   {
     name: "Yoon Hwapyung",
     img: "Hwapyung.png",
-    opts: { series: ["book", "PoFV", "StB", "HM"], stage: ["st4"] }
+    opts: { series: ["TG"], stage: ["st4"] }
   },
   {
     name: "Jo Hyunsoo",
     img: "Hyunsoo (1).png",
-    opts: { series: ["book", "PoFV", "StB", "HM"], stage: ["st5"] }
+    opts: { series: ["TM"], stage: ["st5"] }
   },
   {
     name: "Ida Kousuke",
     img: "Ida.png",
     opts: {
-      series: ["book", "PoFV", "StB", "MoF", "Soku", "HM"],
+      series: ["MLMU"],
       stage: ["st5"]
     }
   },
   {
     name: "JJ Maybank",
     img: "JJ (1).png",
-    opts: { series: ["book", "PoFV", "StB", "HM"], stage: ["st6"] }
+    opts: { series: ["OB"], stage: ["st6"] }
   },
   {
     name: "Seo Jaewon",
     img: "Jaewon (1).png",
-    opts: { series: ["SWR", "DS", "HM"], stage: ["st1"] }
+    opts: { series: ["TES"], stage: ["st1"] }
   },
   {
     name: "Jang Jaeyoung",
     img: "Jaeyoung.png",
-    opts: { series: ["SWR", "DS", "HM"], stage: ["st1"] }
+    opts: { series: ["SE"], stage: ["st1"] }
   },
   {
     name: "Javier Suarez",
     img: "Javier.png",
-    opts: { series: ["SWR", "DS", "HM"], stage: ["st2"] }
+    opts: { series: ["DDHN"], stage: ["st2"] }
   },
   {
     name: "Jeremy Gilbert",
     img: "Jeremy.png",
-    opts: { series: ["SWR", "DS", "HM", "ISC", "ULiL"], stage: ["st3"] }
+    opts: { series: ["VD"], stage: ["st3"] }
   },
   {
     name: "Jill Young",
     img: "Jill.png",
-    opts: { series: ["SWR", "DS", "ISC"], stage: ["st4"] }
+    opts: { series: ["MJY"], stage: ["st4"] }
   },
   {
     name: "Jim",
     img: "Jim.png",
     opts: {
-      series: ["SWR", "SA", "UFO", "Soku", "DS", "TD", "HM", "ISC", "LoLK"],
+      series: ["OFMD"],
       stage: ["st5", "ex"]
     }
   },
   {
     name: "Joey Tribbiani",
     img: "Joey (1).png",
-    opts: { series: ["SWR", "Soku", "DS", "HM", "ISC"], stage: ["st6", "ex"] }
+    opts: { series: ["F"], stage: ["st6", "ex"] }
   },
   {
     name: "Yoon Jongwoo",
     img: "Jongwoo (1).png",
-    opts: { series: ["SWR", "SA", "Soku", "DS", "HM", "ISC"], stage: ["ex"] }
+    opts: { series: ["SfH"], stage: ["ex"] }
   },
   {
     name: "Lim Jugyeong",
     img: "Jugyeong.png",
-    opts: { series: ["MoF", "Soku", "DS", "HM"], stage: ["st5"] }
+    opts: { series: ["TB"], stage: ["st5"] }
   },
   {
     name: "Kahlan Amnell",
     img: "Kahlan (1).png",
-    opts: { series: ["MoF", "Soku", "DS", "HM", "ISC"], stage: ["st6"] }
+    opts: { series: ["LoTS"], stage: ["st6"] }
   },
   {
     name: "Kang Gook",
     img: "JRka6ff.png",
-    opts: { series: ["SA", "DS"], stage: ["st1"] }
+    opts: { series: ["WYEL"], stage: ["st1"] }
   },
   {
     name: "Kaofah",
     img: "Kaofah.png",
-    opts: { series: ["SA", "DS", "HM"], stage: ["st1"] }
+    opts: { series: ["SiYH"], stage: ["st1"] }
   },
   {
     name: "Michael Kelso",
     img: "Kelso.png",
-    opts: { series: ["SA", "DS", "HM"], stage: ["st2"] }
+    opts: { series: ["T7S"], stage: ["st2"] }
   },
   {
     name: "Kinn",
     img: "Kinn.png",
-    opts: { series: ["SA", "DS", "HM"], stage: ["st3"] }
+    opts: { series: ["KP"], stage: ["st3"] }
   },
   {
     name: "Kurosawa Yuichi",
     img: "Kurosawa.png",
-    opts: { series: ["SA", "DS", "HM"], stage: ["st4"] }
+    opts: { series: ["CM"], stage: ["st4"] }
   },
   {
     name: "Kyo Sohma",
     img: "Kyo (1).png",
-    opts: { series: ["SA", "DS", "HM"], stage: ["st4", "st5", "st6"] }
+    opts: { series: ["FB"], stage: ["st4", "st5", "st6"] }
   },
   {
     name: "Legolas",
     img: "Legolas.png",
-    opts: { series: ["SA", "Soku", "DS", "HM"], stage: ["st6"] }
+    opts: { series: ["LoTR"], stage: ["st6"] }
   },
   {
     name: "Seo Moonjo",
     img: "Moonjo.png",
-    opts: { series: ["SA", "DS", "HM", "ULiL"], stage: ["ex"] }
+    opts: { series: ["SfH"], stage: ["ex"] }
   },
   {
     name: "Mork",
     img: "Mork.png",
-    opts: { series: ["UFO", "DS", "HM"], stage: ["st1", "st5"] }
+    opts: { series: ["DBK"], stage: ["st1", "st5"] }
   },
   {
     name: "Naoya Shinomiya",
     img: "Naoya.png",
-    opts: { series: ["UFO", "DS", "HM"], stage: ["st2", "ex"] }
+    opts: { series: ["MUHNCBTK"], stage: ["st2", "ex"] }
   },
   {
     name: "Nick Clark",
     img: "Nick C.png",
-    opts: { series: ["UFO", "DS", "HM", "ULiL"], stage: ["st3"] }
+    opts: { series: ["FTWD"], stage: ["st3"] }
   },
   {
     name: "Pa",
     img: "Pa.png",
-    opts: { series: ["UFO", "DS", "HM"], stage: ["st4"] }
+    opts: { series: ["BB"], stage: ["st4"] }
   },
   {
     name: "Phayu",
     img: "Phayu.png",
-    opts: { series: ["UFO", "DS", "HM"], stage: ["st5"] }
+    opts: { series: ["LitA"], stage: ["st5"] }
   },
   {
     name: "Phupha",
     img: "Phupha.png",
-    opts: { series: ["UFO", "DS", "HM", "ISC", "ULiL"], stage: ["st6"] }
+    opts: { series: ["1S"], stage: ["st6"] }
   },
   {
     name: "Pran",
     img: "Pran.png",
-    opts: { series: ["UFO", "DS", "TD", "HM"], stage: ["st4", "st6", "ex"] }
+    opts: { series: ["BB"], stage: ["st4", "st6", "ex"] }
   },
   {
     name: "Prapai",
     img: "Prapai.png",
-    opts: { series: ["DS", "HM", "ISC"], stage: ["ex"] }
+    opts: { series: ["LitA"], stage: ["ex"] }
   },
   {
     name: "Prince Charmont",
     img: "Prince Char (1).png",
-    opts: { series: ["book", "GFW", "HM"], stage: ["st1", "st2", "st3"] }
+    opts: { series: ["EE"], stage: ["st1", "st2", "st3"] }
   },
   {
     name: "Prince",
     img: "Prince.png",
-    opts: { series: ["book", "GFW", "HM"], stage: ["st1", "st2", "st3"] }
+    opts: { series: ["SiYH"], stage: ["st1", "st2", "st3"] }
   },
   {
     name: "Rachel Green",
     img: "Rachel (1).png",
-    opts: { series: ["book", "GFW", "HM"], stage: ["st1", "st2", "st3"] }
+    opts: { series: ["F"], stage: ["st1", "st2", "st3"] }
   },
   {
     name: "Rae Earl",
     img: "Rae.png",
-    opts: { series: ["TD", "HM", "ISC"], stage: ["st2"] }
+    opts: { series: ["MMFD"], stage: ["st2"] }
   },
   {
     name: "Rick Grimes",
     img: "Rick.png",
-    opts: { series: ["TD", "HM", "ISC"], stage: ["st3", "st4"] }
+    opts: { series: ["TWD"], stage: ["st3", "st4"] }
   },
   {
     name: "Ron Weasley",
     img: "BvRy423.png",
-    opts: { series: ["TD", "HM", "ISC"], stage: ["st4"] }
+    opts: { series: ["HP"], stage: ["st4"] }
   },
   {
     name: "Kang Seojoon",
     img: "Seojoon.png",
-    opts: { series: ["TD", "HM"], stage: ["st5"] }
+    opts: { series: ["TMS"], stage: ["st5"] }
   },
   {
     name: "Han Seojun",
     img: "Seojun.png",
-    opts: { series: ["TD", "HM", "ISC", "ULiL"], stage: ["st5"] }
+    opts: { series: ["TB"], stage: ["st5"] }
   },
   {
     name: "Shawn Hunter",
     img: "LXALO2L.png",
-    opts: { series: ["TD", "HM", "ISC", "ULiL"], stage: ["st6"] }
+    opts: { series: ["BMW"], stage: ["st6"] }
   },
   {
     name: "Zhou Shuyi",
     img: "Shuyi (1).png",
-    opts: { series: ["TD", "HM", "ISC", "ULiL"], stage: ["ex"] }
+    opts: { series: ["WBL"], stage: ["ex"] }
   },
   {
     name: "Yeon Sieun",
     img: "Jp8YrAA.png",
-    opts: { series: ["book", "HM", "ULiL"], stage: ["st6"] }
+    opts: { series: ["WHC1"], stage: ["st6"] }
   },
   {
     name: "Hwang Simok",
     img: "Simok.png",
-    opts: { series: ["DDC", "ISC"], stage: ["st1"] }
+    opts: { series: ["St"], stage: ["st1"] }
   },
   {
     name: "Sirius Black",
     img: "Sirius (1).png",
-    opts: { series: ["DDC", "ISC"], stage: ["st2"] }
+    opts: { series: ["HP"], stage: ["st2"] }
   },
   {
     name: "Cha Siwon",
     img: "Siwon.png",
-    opts: { series: ["DDC", "ISC"], stage: ["st3"] }
+    opts: { series: ["B"], stage: ["st3"] }
   },
   {
     name: "Stiles Stilinski",
     img: "Stiles.png",
-    opts: { series: ["DDC", "ISC"], stage: ["st4", "ex"] }
+    opts: { series: ["TW"], stage: ["st4", "ex"] }
   },
   {
     name: "Jo Taehyun",
     img: "Taehyun (1).png",
-    opts: { series: ["DDC", "ISC"], stage: ["st4", "ex"] }
+    opts: { series: ["AStCO"], stage: ["st4", "ex"] }
   },
   {
     name: "Han Taejoo",
     img: "Taejoo.png",
-    opts: { series: ["DDC", "ISC"], stage: ["st5", "st6"] }
+    opts: { series: ["WYEL"], stage: ["st5", "st6"] }
   },
   {
     name: "Jung Taeju",
     img: "Taeju (1).png",
-    opts: { series: ["DDC", "ISC", "ULiL"], stage: ["st6"] }
+    opts: { series: ["MN"], stage: ["st6"] }
   },
   {
     name: "Teh",
     img: "Teh.png",
-    opts: { series: ["DDC", "ISC"], stage: ["ex"] }
+    opts: { series: ["ITSAY"], stage: ["ex"] }
   },
   {
     name: "Tinn",
     img: "Tinn.png",
-    opts: { series: ["ULiL"], stage: ["st6"] }
+    opts: { series: ["MSP"], stage: ["st6"] }
   },
   {
     name: "Todd",
     img: "Todd.png",
-    opts: { series: ["LoLK"], stage: ["st1"] }
+    opts: { series: ["NM"], stage: ["st1"] }
   },
   {
     name: "Topanga Lawrence",
     img: "Topanga.png",
-    opts: { series: ["LoLK"], stage: ["st2"] }
+    opts: { series: ["BMW"], stage: ["st2"] }
   },
   {
     name: "Vegas",
     img: "Vegas (1).png",
-    opts: { series: ["LoLK"], stage: ["st3", "ex"] }
+    opts: { series: ["KP"], stage: ["st3", "ex"] }
   },
   {
     name: "Veronica Fisher",
     img: "Veronica.png",
-    opts: { series: ["LoLK"], stage: ["st4"] }
+    opts: { series: ["SM"], stage: ["st4"] }
   },
   {
     name: "Wang",
     img: "Wang (1).png",
-    opts: { series: ["LoLK"], stage: ["st5"] }
+    opts: { series: ["180DLPTU"], stage: ["st5"] }
   },
   {
     name: "Yihwa",
     img: "Yihwa.png",
-    opts: { series: ["LoLK"], stage: ["st6", "ex"] }
+    opts: { series: ["TWM"], stage: ["st6", "ex"] }
   },
   {
     name: "Choi Yuna",
     img: "Yuna (1).png",
-    opts: { series: ["LoLK"], stage: ["ex"] }
+    opts: { series: ["SE"], stage: ["ex"] }
   },
   {
     name: "Roronoa Zoro",
     img: "Zoro (1).png",
-    opts: { series: ["book"], stage: [] }
+    opts: { series: ["OP"], stage: [] }
   },
-  { name: "Ma Hwiyoung", img: "at18-03.png", opts: { series: ["book"], stage: [] } },
+  { name: "Ma Hwiyoung", img: "at18-03.png", opts: { series: ["AE"], stage: [] } },
   {
     name: "Steve McGarret",
     img: "steve.png",
-    opts: { series: ["book"], stage: [] }
+    opts: { series: ["H50"], stage: [] }
   }
   ];
