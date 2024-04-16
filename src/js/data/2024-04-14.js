@@ -100,6 +100,11 @@ dataSet[dataSetVersion].options = [
       { name: "Succession", key: "SSN" },
       { name: "Bloodhounds", key: "BH" },
       { name: "Sing My Crush", key: "SMC" },
+      { name: "Make Our Days Count", key: "MODC" },
+      { name: "My Beautiful Man", key: "MBM" },
+      { name: "Navillera", key: "N" },
+      { name: "Cheese in the Trap", key: "CitT" },
+      { name: "Step by Step", key: "SBS" },
     ]
   },
   {
@@ -795,5 +800,65 @@ dataSet[dataSetVersion].characterData = [
     name: "Im Hantae",
     img: "vgln7eL.jpg",
     opts: { series: ["SMC"], stage: ["st5"] }
+  },
+  {
+    name: "Xiang Haoting",
+    img: "iW4ZlwZ.png",
+    opts: { series: ["MODC"], stage: ["st5"] }
+  },
+  {
+    name: "Harry Potter",
+    img: "2UGWky2.jpg",
+    opts: { series: ["HP"], stage: ["st5"] }
+  },
+  {
+    name: "Hayley Marshall",
+    img: "qkkG6wI.png",
+    opts: { series: ["VD"], stage: ["st5"] }
+  },
+  {
+    name: "Hermione Granger",
+    img: "EeXxLZ8.png",
+    opts: { series: ["HP"], stage: ["st5"] }
+  },
+  {
+    name: "Kazunari Hira",
+    img: "8WShnxT.png",
+    opts: { series: ["MBM"], stage: ["st5"] }
+  },
+  {
+    name: "Yang Hobeom",
+    img: "e19mjw0.png",
+    opts: { series: ["N"], stage: ["st5"] }
+  },
+  {
+    name: "Baek Inha",
+    img: "8cLXq6r.png",
+    opts: { series: ["CitT"], stage: ["st5"] }
+  },
+  {
+    name: "Baek Inho",
+    img: "ffsZOoG.png",
+    opts: { series: ["CitT"], stage: ["st5"] }
+  },
+  {
+    name: "Ink",
+    img: "57yVsaL.png",
+    opts: { series: ["BB"], stage: ["st5"] }
+  },
+  {
+    name: "Jaab",
+    img: "dJoYCXC.png",
+    opts: { series: ["SBS"], stage: ["st5"] }
+  },
+  {
+    name: "Jack Hunter",
+    img: "jZZr0ck.png",
+    opts: { series: ["BMW"], stage: ["st5"] }
+  },
+  {
+    name: "Han Jaeho",
+    img: "dp0FVKL.png",
+    opts: { series: ["TM"], stage: ["st5"] }
   },
   ];
