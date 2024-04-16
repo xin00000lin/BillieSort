@@ -79,6 +79,18 @@ dataSet[dataSetVersion].options = [
       { name: "180 degrees Longitude Passes Through Us", key: "180DLPTU" },
       { name: "Together With Me", key: "TWM" },
       { name: "One Piece", key: "OP" },
+      { name: "Vigilante", key: "V" },
+      { name: "Bandersnatch", key: "BS" },
+      { name: "Coraline", key: "C" },
+      { name: "Pride & Predjudice", key: "PP" },
+      { name: "Criminal Minds", key: "CrM" },
+      { name: "Breeze of Love", key: "BoL" },
+      { name: "From", key: "FM" },
+      { name: "Midnight", key: "MD" },
+      { name: "The Glory", key: "TGl" },
+      { name: "Evilive", key: "EL" },
+      { name: "The Last of Us", key: "TLoU" },
+      { name: "X-Men", key: "XM" },
     ]
   },
   {
@@ -624,5 +636,85 @@ dataSet[dataSetVersion].characterData = [
     name: "Roronoa Zoro",
     img: "qbN3RBT.png",
     opts: { series: ["OP"], stage: ["st5"] }
+  },
+  {
+    name: "Cho Heon",
+    img: "lWp17Yp.png",
+    opts: { series: ["V"], stage: ["st5"] }
+  },
+  {
+    name: "Colin Ritman",
+    img: "qXrgvOB.png",
+    opts: { series: ["BS"], stage: ["st5"] }
+  },
+  {
+    name: "Coraline Jones",
+    img: "mpk59tf.png",
+    opts: { series: ["C"], stage: ["st5"] }
+  },
+  {
+    name: "Fitzwilliam Darcy",
+    img: "Phkoma9.png",
+    opts: { series: ["PP"], stage: ["st5"] }
+  },
+  {
+    name: "Hyeong Daun",
+    img: "tWoadD4.png",
+    opts: { series: ["B"], stage: ["st5"] }
+  },
+  {
+    name: "Derek Morgan",
+    img: "222hnAz.png",
+    opts: { series: ["CrM"], stage: ["st5"] }
+  },
+  {
+    name: "Ban Dongwook",
+    img: "zzwZyXx.png",
+    opts: { series: ["BoL"], stage: ["st5"] }
+  },
+  {
+    name: "Donna",
+    img: "VscL8kZ.png",
+    opts: { series: ["FM"], stage: ["st5"] }
+  },
+  {
+    name: "Dosik",
+    img: "bZWsAIz.png",
+    opts: { series: ["MD"], stage: ["st5"] }
+  },
+  {
+    name: "Ha Doyoung",
+    img: "weMmV0P.png",
+    opts: { series: ["TGl"], stage: ["st5"] }
+  },
+  {
+    name: "Seo Doyoung",
+    img: "M9hP3nd.png",
+    opts: { series: ["EL"], stage: ["st5"] }
+  },
+  {
+    name: "Dylan Massett",
+    img: "XcRIMJd.png",
+    opts: { series: ["BM"], stage: ["st5"] }
+  },
+  {
+    name: "Elijah Mikaelson",
+    img: "QOFHsFI.png",
+    opts: { series: ["VD"], stage: ["st5"] }
+  },
+  {
+    name: "Ellie",
+    img: "UY9gwsw.png",
+    opts: { series: ["TLoU"], stage: ["st5"] }
+  },
+  {
+    name: "Eric Matthews",
+    img: "LZCw30K.png",
+    opts: { series: ["BMW"], stage: ["st5"] }
+  },
+  {
+    name: "Erik Lehnsherr",
+    img: "0LOemi1.png",
+    opts: { series: ["XM"], stage: ["st5"] }
   },
   ];
