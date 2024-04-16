@@ -445,4 +445,184 @@ dataSet[dataSetVersion].characterData = [
   },
   { name: "Ma Hwiyoung", img: "wGprfbc.png", opts: { series: ["AE"], stage: [] } 
   },
+  {
+    name: "Arthit",
+    img: "eLTiypr.png",
+    opts: { series: ["S"], stage: ["st5"] }
+  },
+  {
+    name: "Javier Suarez",
+    img: "TN1lE4K.png",
+    opts: { series: ["DDHN"], stage: ["st5"] }
+  },
+  {
+    name: "Jeremy Gilbert",
+    img: "RgeBvcn.png",
+    opts: { series: ["VD"], stage: ["st5"] }
+  },
+   {
+    name: "Jim",
+    img: "UeKRK0E.png",
+    opts: { series: ["OFMD"], stage: ["st5"] }
+  },
+  {
+    name: "Joey Tribbiani",
+    img: "AXPlv1C.png",
+    opts: { series: ["F"], stage: ["st5"] }
+  },
+  {
+    name: "Lim Jugyeong",
+    img: "6x67AFq.png",
+    opts: { series: ["TB"], stage: ["st5"] }
+  },
+  {
+    name: "Kahlan Amnell",
+    img: "UTjNKkF.png",
+    opts: { series: ["LotS"], stage: ["st5"] }
+  },
+  {
+    name: "Kaofah",
+    img: "m5HXB18.png",
+    opts: { series: ["SiYH"], stage: ["st5"] }
+  },
+  {
+    name: "Yuichi Kurosawa",
+    img: "kamO66B.png",
+    opts: { series: ["CM"], stage: ["st5"] }
+  },
+  {
+    name: "Legolas",
+    img: "aMYVywf.png",
+    opts: { series: ["LotR"], stage: ["st5"] }
+  },
+  {
+    name: "Mork",
+    img: "9WLqQMh.png",
+    opts: { series: ["DBK"], stage: ["st5"] }
+  },
+  {
+    name: "Naoya Shinomiya",
+    img: "WxTSK8N.png",
+    opts: { series: ["MUHNCBTK"], stage: ["st5"] }
+  },
+  {
+    name: "Nick Clark",
+    img: "7CiuwDV.png",
+    opts: { series: ["FTWD"], stage: ["st5"] }
+  },
+  {
+    name: "Pa",
+    img: "Sd85bot.png",
+    opts: { series: ["BB"], stage: ["st5"] }
+  },
+  {
+    name: "Phayu",
+    img: "M0lSn7Y.png",
+    opts: { series: ["LitA"], stage: ["st5"] }
+  },
+  {
+    name: "Phupha",
+    img: "quL2XK8.png",
+    opts: { series: ["1S"], stage: ["st5"] }
+  },
+  {
+    name: "Pran",
+    img: "3EWd7Fu.png",
+    opts: { series: ["BB"], stage: ["st5"] }
+  },
+  {
+    name: "Prapai",
+    img: "mVX7FzU.png",
+    opts: { series: ["LitA"], stage: ["st5"] }
+  },
+  {
+    name: "Prince Charmont",
+    img: "il90bvg.png",
+    opts: { series: ["EE"], stage: ["st5"] }
+  },
+  {
+    name: "Prince",
+    img: "xYn9mzf.png",
+    opts: { series: ["SiYH"], stage: ["st5"] }
+  },
+  {
+    name: "Rachel Green",
+    img: "eCybN0N.png",
+    opts: { series: ["F"], stage: ["st5"] }
+  },
+  {
+    name: "Rae Earl",
+    img: "23s7Zva.png",
+    opts: { series: ["MMFD"], stage: ["st5"] }
+  },
+  {
+    name: "Hwang Simok",
+    img: "FbhGjxL.png",
+    opts: { series: ["St"], stage: ["st5"] }
+  },
+  {
+    name: "Sirius Black",
+    img: "iIFzyNH.png",
+    opts: { series: ["HP"], stage: ["st5"] }
+  },
+  {
+    name: "Cha Siwon",
+    img: "q7mKihS.png",
+    opts: { series: ["B"], stage: ["st5"] }
+  },
+  {
+    name: "Steve McGarret",
+    img: "mMfR0Hm.png",
+    opts: { series: ["H50"], stage: ["st5"] }
+  },
+  {
+    name: "Stiles Stilinski",
+    img: "1U95IMA.png",
+    opts: { series: ["TW"], stage: ["st5"] }
+  },
+  {
+    name: "Cho Taehyun",
+    img: "hqbj100.png",
+    opts: { series: ["AStCO"], stage: ["st5"] }
+  },
+  {
+    name: "Han Taejoo",
+    img: "lKp3b5E.png",
+    opts: { series: ["WYEL"], stage: ["st5"] }
+  },
+  {
+    name: "Jung Taeju",
+    img: "F1dsaaO.png",
+    opts: { series: ["MN"], stage: ["st5"] }
+  },
+  {
+    name: "Topanga Lawrence",
+    img: "XMqnSoK.png",
+    opts: { series: ["BMW"], stage: ["st5"] }
+  },
+  {
+    name: "Vegas",
+    img: "3TB75WT.png",
+    opts: { series: ["KP"], stage: ["st5"] }
+  },
+  {
+    name: "Veronica Fisher",
+    img: "ir1ipBf.png",
+    opts: { series: ["SM"], stage: ["st5"] }
+  },
+  {
+    name: "Yihwa",
+    img: "nIV2Cn7.png",
+    opts: { series: ["TWM"], stage: ["st5"] }
+  },
+  {
+    name: "Choi Yuna",
+    img: "ezv9YY9.png",
+    opts: { series: ["SE"], stage: ["st5"] }
+  },
+  {
+    name: "Roronoa Zoro",
+    img: "qbN3RBT.png",
+    opts: { series: ["OP"], stage: ["st5"] }
+  },
   ];
