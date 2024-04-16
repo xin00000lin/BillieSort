@@ -91,6 +91,15 @@ dataSet[dataSetVersion].options = [
       { name: "Evilive", key: "EL" },
       { name: "The Last of Us", key: "TLoU" },
       { name: "X-Men", key: "XM" },
+      { name: "The Eagle", key: "TE" },
+      { name: "Sweet Home", key: "SH" },
+      { name: "Saltburn", key: "SB" },
+      { name: "The Maze Runner", key: "TMR" },
+      { name: "The Lovely Writer", key: "TLW" },
+      { name: "Anne of Green Gables", key: "AoGG" },
+      { name: "Succession", key: "SSN" },
+      { name: "Bloodhounds", key: "BH" },
+      { name: "Sing My Crush", key: "SMC" },
     ]
   },
   {
@@ -716,5 +725,75 @@ dataSet[dataSetVersion].characterData = [
     name: "Erik Lehnsherr",
     img: "0LOemi1.png",
     opts: { series: ["XM"], stage: ["st5"] }
+  },
+  {
+    name: "Esca Mac Cunoval",
+    img: "3iNymhQ.png",
+    opts: { series: ["TE"], stage: ["st5"] }
+  },
+  {
+    name: "Lee Eunhyuk",
+    img: "ys3LZZO.png",
+    opts: { series: ["SH"], stage: ["st5"] }
+  },
+  {
+    name: "Felix Catton",
+    img: "f4h6ESt.png",
+    opts: { series: ["SB"], stage: ["st5"] }
+  },
+  {
+    name: "Finn Nelson",
+    img: "sxJLjqm.png",
+    opts: { series: ["MMFD"], stage: ["st5"] }
+  },
+  {
+    name: "Gally",
+    img: "g0ugsPp.png",
+    opts: { series: ["TMR"], stage: ["st5"] }
+  },
+  {
+    name: "Gene",
+    img: "P4zbBsA.png",
+    opts: { series: ["TLW"], stage: ["st5"] }
+  },
+  {
+    name: "Gilbert Blythe",
+    img: "s1uLu3u.png",
+    opts: { series: ["AoGG"], stage: ["st5"] }
+  },
+  {
+    name: "Kang Gilyoung",
+    img: "GCgVkv7.png",
+    opts: { series: ["TG"], stage: ["st5"] }
+  },
+  {
+    name: "Glenn Rhee",
+    img: "C5LGGjU.png",
+    opts: { series: ["TWD"], stage: ["st5"] }
+  },
+  {
+    name: "Gram",
+    img: "shuHr9q.png",
+    opts: { series: ["NM"], stage: ["st5"] }
+  },
+  {
+    name: "Greg Hirsch",
+    img: "ei0IYa8.png",
+    opts: { series: ["SSN"], stage: ["st5"] }
+  },
+  {
+    name: "Kim Gunwoo",
+    img: "GockWDN.png",
+    opts: { series: ["BH"], stage: ["st5"] }
+  },
+  {
+    name: "Haley James Scott",
+    img: "StCm61a.png",
+    opts: { series: ["OTH"], stage: ["st5"] }
+  },
+  {
+    name: "Im Hantae",
+    img: "vgln7eL.jpg",
+    opts: { series: ["SMC"], stage: ["st5"] }
   },
   ];
