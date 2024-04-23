@@ -105,6 +105,63 @@ dataSet[dataSetVersion].options = [
       { name: "Navillera", key: "N" },
       { name: "Cheese in the Trap", key: "CitT" },
       { name: "Step by Step", key: "SBS" },
+      { name: "Game of Thrones", key: "GoT" },
+      { name: "Bump Up Business", key: "BUB" },
+      { name: "Stranger Things", key: "StT" },
+      { name: "Dead Friend Forever", key: "DFF" },
+      { name: "One Ordinary Day", key: "OOD" },
+      { name: "Masters of the Air", key: "MotA" },
+      { name: "Sing in Love", key: "SiL" },
+      { name: "Sense8", key: "S8" },
+      { name: "Alice in Borderland", key: "AiB" },
+      { name: "Big Time Rush", key: "BTR" },
+      { name: "The Red Road", key: "TRR" },
+      { name: "Two Weeks Notice", key: "TWN" },
+      { name: "Love Syndrome 3", key: "LS3" },
+      { name: "It's Always Sunny in Philadelphia", key: "IASIP" },
+      { name: "Last Twilight", key: "LT" },
+      { name: "Love for Love's Sake", key: "LfLS" },
+      { nmae: "His", key: "His" },
+      { name: "Light on Me", key: "LoM" },
+      { name: "Are You Human, Too?", key: "AYHT" },
+      { name: "3 Will Be Free", key: "3WBF" },
+      { name: "Heartstopper", key: "HS" },
+      { name: "Charlie Countryman", "CC" },
+      { name: "The Witch Subversion", key: "TWS" },
+      { name: "I Will Knock You", key: "IWKY" },
+      { name: "The hunger Games", key: "THG" },
+      { name: "Hereditary", key: "HD" },
+      { name: "The Sign", key: "TSTS" },
+      { name: "Star Wars", key: "SW" },
+      { name: "Merli", key: "ML" },
+      { name: "En of Love", key: "EoL" },
+      { name: "Unknown", key: "UK" },
+      { name: "Vikings", key: "VK" },
+      { name: "Okja", key: "O" },
+      { name: "Mars", key: "MS" },
+      { name: "Crashing", key: "CS" },
+      { name: "Skam", key: "SkM" },
+      { name: "Move to Heaven", key: "MtH" },
+      { name: "2gether", key: "2G" },
+      { name: "Be Loved in House", key: "BLiH" },
+      { name: "Skae Your Soul", key: "SYS" },
+      { name: "Twins", key: "Twins" },
+      { name: "Blind", key: "BD" },
+      { name: "Insider", key: "ISD" },
+      { name: "Stay with Me", key: "SwM" },
+      { name: "Manner of Death", key: "MoD" },
+      { name: "Love by chance", key: "LBC" },
+      { name: "Old Fashioned Cupcake", key: "OFC" },
+      { name: "Love Mechanics", key: "LM" },
+      { name: "Venom", key: "VNM" },
+      { name: "Young Royals", key: "YR" },
+      { name: "While You Were Sleeping", key: "WYWS" },
+      { name: "The Devil Judge", key: "TDJ" },
+      { name: "The Call", key: "TC" },
+      { name: "Why R U Korea", key: "WRUK" },
+      { name: "Crossing the Line", key: "CtL" },
+      { name: "13 Reasons Why", key: "13RW" },
+      { name: "Hit the Floor", key: "HtF" },
     ]
   },
   {
@@ -861,4 +918,560 @@ dataSet[dataSetVersion].characterData = [
     img: "dp0FVKL.png",
     opts: { series: ["TM"], stage: ["st5"] }
   },
+  {
+    name: "Yoo Jaeyi",
+    img: "1MKpgBl.png",
+    opts: { series: ["BE"], stage: ["st5"] }
+  },
+  {
+    name: "Jaime Lannister",
+    img: "6X4W5og.png",
+    opts: { series: ["GoT"], stage: ["st5"] }
+  },
+  {
+    name: "Gong Jihoon",
+    img: "uCyyIJi.png",
+    opts: { series: ["BUB"], stage: ["st5"] }
+  },
+  {
+    name: "Jim Hopper",
+    img: "u8yZkFY.png",
+    opts: { series: ["StT"], stage: ["st5"] }
+  },
+  {
+    name: "Jin",
+    img: "QUusgFg.png",
+    opts: { series: ["DFF"], stage: ["st5"] }
+  },
+  {
+    name: "Do Jitae",
+    img: "uOHYsre.png",
+    opts: { series: ["OOD"], stage: ["st5"] }
+  },
+  {
+    name: "Han Jiwoo",
+    img: "R5hNQ8r.png",
+    opts: { series: ["TMS"], stage: ["st5"] }
+  },
+  {
+    name: "Kim Jiyong",
+    img: "IV0UzVf.png",
+    opts: { series: ["V"], stage: ["st5"] }
+  },
+  {
+    name: "Joel",
+    img: "lkuFt4h.png",
+    opts: { series: ["TLoU"], stage: ["st5"] }
+  },
+  {
+    name: "John Egan",
+    img: "aGI8XNO.png",
+    opts: { series: ["MotA"], stage: ["st5"] }
+  },
+  {
+    name: "Han Juwon",
+    img: "DYpteUZ.png",
+    opts: { series: ["BE"], stage: ["st5"] }
+  },
+  {
+    name: "Kai Yuta",
+    img: "Bg4tdO8.png",
+    opts: { series: ["SiL"], stage: ["st5"] }
+  },
+  {
+    name: "Kala Dandekar",
+    img: "tk27txU.png",
+    opts: { series: ["S8"], stage: ["st5"] }
+  },
+  {
+    name: "Daikichi Karube",
+    img: "0MucS4R.png",
+    opts: { series: ["AiB"], stage: ["st5"] }
+  },
+  {
+    name: "Kendall Knight",
+    img: "aP1MjQP.png",
+    opts: { series: ["BTR"], stage: ["st5"] }
+  },
+  {
+    name: "Kendall Roy",
+    img: "60kXIXL.png",
+    opts: { series: ["SSN"], stage: ["st5"] }
+  },
+  {
+    name: "Kev Ball",
+    img: "BUXVtw0.png",
+    opts: { series: ["SM"], stage: ["st5"] }
+  },
+  {
+    name: "Kim",
+    img: "WljhpEM.png",
+    opts: { series: ["PB"], stage: ["st5"] }
+  },
+  {
+    name: "So Kiyoi",
+    img: "RVOsEHF.png",
+    opts: { series: ["MBM"], stage: ["st5"] }
+  },
+  {
+    name: "Kofun",
+    img: "dqeJwO0.png",
+    opts: { series: ["See"], stage: ["st5"] }
+  },
+  {
+    name: "Philip Kopus",
+    img: "7h3IRAZ.png",
+    opts: { series: ["TRR"], stage: ["st5"] }
+  },
+  {
+    name: "Lucy Kelson",
+    img: "SlCfWi4.png",
+    opts: { series: ["TWN"], stage: ["st5"] }
+  },
+  {
+    name: "Monkey D. Luffy", 
+    img: "3c6gHC2.png",
+    opts: { series: ["OP"], stage: ["st5"] }
+  },
+  {
+    name: "Mac", 
+    img: "oRhBrK5.png",
+    opts: { series: ["LS3"], stage: ["st5"] }
+  },
+  {
+    name: "Mac", 
+    img: "yRRhy30.png",
+    opts: { series: ["IASIP"], stage: ["st5"] }
+  },
+  {
+    name: "Maggie Rhee", 
+    img: "CXXpgec.png",
+    opts: { series: ["TWD"], stage: ["st5"] }
+  },
+  {
+    name: "Marcus Flavius Aquila", 
+    img: "JS8KAIs.png",
+    opts: { series: ["TE"], stage: ["st5"] }
+  },
+  {
+    name: "Mek", 
+    img: "xkVUxMz.png",
+    opts: { series: ["ME"], stage: ["st5"] }
+  },
+  {
+    name: "Mhok", 
+    img: "7rYiOPQ.png",
+    opts: { series: ["LT"], stage: ["st5"] }
+  },
+  {
+    name: "Mickey Milkovich", 
+    img: "3zgtAYb.png",
+    opts: { series: ["SM"], stage: ["st5"] }
+  },
+  {
+    name: "Monica Geller", 
+    img: "QeGmFuA.png",
+    opts: { series: ["F"], stage: ["st5"] }
+  },
+  {
+    name: "Choi Mujin", 
+    img: "9GKqfJM.png",
+    opts: { series: ["MN"], stage: ["st5"] }
+  },
+  {
+    name: "Kim Myeonggil", 
+    img: "w7L7BzQ.png",
+    opts: { series: ["BH"], stage: ["st5"] }
+  },
+  {
+    name: "Tae Myungha", 
+    img: "heKJ0lo.png",
+    opts: { series: ["LfLS"], stage: ["st5"] }
+  },
+  {
+    name: "Nagisa Hibino", 
+    img: "QIYIxPQ.png",
+    opts: { series: ["His"], stage: ["st5"] }
+  },
+  {
+    name: "Shiwoon Namgoong", 
+    img: "A2H7fVP.png",
+    opts: { series: ["LoM"], stage: ["st5"] }
+  },
+  {
+    name: "Nam Shin", 
+    img: "mx8YS9y.png",
+    opts: { series: ["AYHT"], stage: ["st5"] }
+  },
+  {
+    name: "Nathan Scott", 
+    img: "eQyKssy.png",
+    opts: { series: ["OTH"], stage: ["st5"] }
+  },
+  {
+    name: "Negan Smith", 
+    img: "tlXKLuB.png",
+    opts: { series: ["TWD"], stage: ["st5"] }
+  },
+  {
+    name: "Neo", 
+    img: "tgO68KA.png",
+    opts: { series: ["3WBF"], stage: ["st5"] }
+  },
+  {
+    name: "Nick Nelson", 
+    img: "M3N5aT7.png",
+    opts: { series: ["HS"], stage: ["st5"] }
+  },
+  {
+    name: "Nigel", 
+    img: "130uVuc.png",
+    opts: { series: ["CC"], stage: ["st5"] }
+  },
+  {
+    name: "Night", 
+    img: "2wJzrbr.png",
+    opts: { series: ["LT"], stage: ["st5"] }
+  },
+  {
+    name: "Nobleman", 
+    img: "8T93NHR.png",
+    opts: { series: ["TWS"], stage: ["st5"] }
+  },
+  {
+    name: "Noey", 
+    img: "K6OmXac.png",
+    opts: { series: ["IWKY"], stage: ["st5"] }
+  },
+  {
+    name: "Norma Bates", 
+    img: "lPYVu38.png",
+    opts: { series: ["BM"], stage: ["st5"] }
+  },
+  {
+    name: "Nubsib", 
+    img: "m27l654.png",
+    opts: { series: ["LW"], stage: ["st5"] }
+  },
+  {
+    name: "Oh Aew", 
+    img: "tUArzIz.png",
+    opts: { series: ["ITSAY"], stage: ["st5"] }
+  },
+  {
+    name: "Pat", 
+    img: "syLExtl.png",
+    opts: { series: ["BB"], stage: ["st5"] }
+  },
+  {
+    name: "Peeta Mellark", 
+    img: "lrypCpm.png",
+    opts: { series: ["THG"], stage: ["st5"] }
+  },
+  {
+    name: "Peter Graham", 
+    img: "yqyYThO.png",
+    opts: { series: ["HD"], stage: ["st5"] }
+  },
+  {
+    name: "Phaya", 
+    img: "vSqjlFD.png",
+    opts: { series: ["TSTS"], stage: ["st5"] }
+  },
+  {
+    name: "Phee", 
+    img: "UCied5T.png",
+    opts: { series: ["DFF"], stage: ["st5"] }
+  },
+  {
+    name: "Poe Dameron", 
+    img: "hVNFYhu.png",
+    opts: { series: ["SW"], stage: ["st5"] }
+  },
+  {
+    name: "Pol Rubio", 
+    img: "aJxv5gY.png",
+    opts: { series: ["ML"], stage: ["st5"] }
+  },
+  {
+    name: "Porjai", 
+    img: "o5P0sib.png",
+    opts: { series: ["LT"], stage: ["st5"] }
+  },
+  {
+    name: "Praram", 
+    img: "TqkYZgF.png",
+    opts: { series: ["EoL"], stage: ["st5"] }
+  },
+  {
+    name: "Wei Qian", 
+    img: "0wvLXlI.png",
+    opts: { series: ["UK"], stage: ["st5"] }
+  },
+  {
+    name: "Rafe Cameron", 
+    img: "ZFpLH0s.png",
+    opts: { series: ["OB"], stage: ["st5"] }
+  },
+  {
+    name: "Ragnar Lothbrok", 
+    img: "8GCbHHc.png",
+    opts: { series: ["VK"], stage: ["st5"] }
+  },
+  {
+    name: "Red", 
+    img: "C4CUoTa.png",
+    opts: { series: ["O"], stage: ["st5"] }
+  },
+  {
+    name: "Rei Kashino", 
+    img: "IE6uyI6.png",
+    opts: { series: ["MS"], stage: ["st5"] }
+  },
+  {
+    name: "Roman Roy", 
+    img: "l8eBq8F.png",
+    opts: { series: ["SSN"], stage: ["st5"] }
+  },
+  {
+    name: "Sam", 
+    img: "W98K3Bp.png",
+    opts: { series: ["CS"], stage: ["st5"] }
+  },
+  {
+    name: "Samwise Gamgee", 
+    img: "Ekyjfww.png",
+    opts: { series: ["LotR"], stage: ["st5"] }
+  },
+  {
+    name: "Sana Bakkoush", 
+    img: "3UtJiTi.png",
+    opts: { series: ["SkM"], stage: ["st5"] }
+  },
+  {
+    name: "Cho Sanggu", 
+    img: "ZEtBLja.png",
+    opts: { series: ["MtH"], stage: ["st5"] }
+  },
+  {
+    name: "Cho Sangwoo", 
+    img: "ynQBOZW.png",
+    opts: { series: ["SE"], stage: ["st5"] }
+  },
+  {
+    name: "Pyeong Sangwook", 
+    img: "ioUrbs4.png",
+    opts: { series: ["SH"], stage: ["st5"] }
+  },
+  {
+    name: "Vinsmoke Sanji", 
+    img: "brYLZHA.png",
+    opts: { series: ["OP"], stage: ["st5"] }
+  },
+  {
+    name: "Sarah Cameron", 
+    img: "SFOs61i.png",
+    opts: { series: ["OB"], stage: ["st5"] }
+  },
+  {
+    name: "Sarawat", 
+    img: "jAsRmsa.png",
+    opts: { series: ["2G"], stage: ["st5"] }
+  },
+  {
+    name: "Gao Shide", 
+    img: "19rKi3k.png",
+    opts: { series: ["WBL"], stage: ["st5"] }
+  },
+  {
+    name: "Shi Lei", 
+    img: "qApZthq.png",
+    opts: { series: ["BLiH"], stage: ["st5"] }
+  },
+  {
+    name: "Noh Shinwoo", 
+    img: "y8Ak9jX.png",
+    opts: { series: ["LoM"], stage: ["st5"] }
+  },
+  {
+    name: "Igawa Shun", 
+    img: "cJaJDdK.png",
+    opts: { series: ["His"], stage: ["st5"] }
+  },
+  {
+    name: "Simon", 
+    img: "eefsfMa.png",
+    opts: { series: ["SYS"], stage: ["st5"] }
+  },
+  {
+    name: "Ahn Sooho", 
+    img: "0zcIIEB.png",
+    opts: { series: ["WHC1"], stage: ["st5"] }
+  },
+  {
+    name: "Kang Sookin", 
+    img: "8wuMvy3.png",
+    opts: { series: ["TB"], stage: ["st5"] }
+  },
+  {
+    name: "Sound", 
+    img: "FqJ6Uc6.png",
+    opts: { series: ["MSP"], stage: ["st5"] }
+  },
+  {
+    name: "Sprite", 
+    img: "zrP1LGQ.png",
+    opts: { series: ["Twins"], stage: ["st5"] }
+  },
+  {
+    name: "Lee Suho", 
+    img: "juaL1Nn.png",
+    opts: { series: ["TB"], stage: ["st5"] }
+  },
+  {
+    name: "Ryu Sunghoon", 
+    img: "UyZeQJU.png",
+    opts: { series: ["BD"], stage: ["st5"] }
+  },
+  {
+    name: "Jang Sunoh", 
+    img: "ky7Hm4l.png",
+    opts: { series: ["ISD"], stage: ["st5"] }
+  },
+  {
+    name: "Suyu", 
+    img: "tauGeXb.png",
+    opts: { series: ["SwM"], stage: ["st5"] }
+  },
+  {
+    name: "Tan", 
+    img: "fIUgMc4.png",
+    opts: { series: ["MoD"], stage: ["st5"] }
+  },
+  {
+    name: "Tao Xu", 
+    img: "LP53uYH.png",
+    opts: { series: ["HS"], stage: ["st5"] }
+  },
+  {
+    name: "Tin", 
+    img: "uKpx04G.png",
+    opts: { series: ["LBC"], stage: ["st5"] }
+  },
+  {
+    name: "Togawa", 
+    img: "djHxEmn.png",
+    opts: { series: ["OFC"], stage: ["st5"] }
+  },
+  {
+    name: "Tom Wambsgans", 
+    img: "VtOUZIg.png",
+    opts: { series: ["SSN"], stage: ["st5"] }
+  },
+  {
+    name: "Troy Otto", 
+    img: "eP1qk2T.png",
+    opts: { series: ["FTWD"], stage: ["st5"] }
+  },
+  {
+    name: "Tyrion Lannister", 
+    img: "27PqWJP.png",
+    opts: { series: ["GoT"], stage: ["st5"] }
+  },
+  {
+    name: "Vee", 
+    img: "U6lVgHQ.png",
+    opts: { series: ["LM"], stage: ["st5"] }
+  },
+  {
+    name: "Venom", 
+    img: "ZfQx5li.png",
+    opts: { series: ["VNM"], stage: ["st5"] }
+  },
+  {
+    name: "Way", 
+    img: "XV7d1cn.png",
+    opts: { series: ["PB"], stage: ["st5"] }
+  },
+  {
+    name: "Wilhelm", 
+    img: "OwOnN91.png",
+    opts: { series: ["YR"], stage: ["st5"] }
+  },
+  {
+    name: "Will Graham", 
+    img: "BLpqLHp.png",
+    opts: { series: ["H"], stage: ["st5"] }
+  },
+  {
+    name: "Wolfgang Bogdanow", 
+    img: "DdW52pv.png",
+    opts: { series: ["S8"], stage: ["st5"] }
+  },
+  {
+    name: "Han Wootak", 
+    img: "1PZkrQN.png",
+    opts: { series: ["WYWS"], stage: ["st5"] }
+  },
+  {
+    name: "Wubi", 
+    img: "UFeFnEl.png",
+    opts: { series: ["SwM"], stage: ["st5"] }
+  },
+  {
+    name: "Joo Yeojeong", 
+    img: "zMqbpDH.png",
+    opts: { series: ["TGl"], stage: ["st5"] }
+  },
+  {
+    name: "Cha Yeowoon", 
+    img: "xRU2kNl.png",
+    opts: { series: ["LfLS"], stage: ["st5"] }
+  },
+  {
+    name: "Kang Yohan", 
+    img: "TlWLSWG.png",
+    opts: { series: ["TDJ"], stage: ["st5"] }
+  },
+  {
+    name: "Yok", 
+    img: "PLBX4wt.png",
+    opts: { series: ["NM"], stage: ["st5"] }
+  },
+  {
+    name: "Choi Yoon", 
+    img: "A02fPBy.png",
+    opts: { series: ["TG"], stage: ["st5"] }
+  },
+  {
+    name: "Yoonjae", 
+    img: "xu0GzE6.png",
+    opts: { series: ["BD"], stage: ["st5"] }
+  },
+  {
+    name: "Oh Youngsook", 
+    img: "CI6PolX.png",
+    opts: { series: ["TC"], stage: ["st5"] }
+  },
+  {
+    name: "Ko Yugyeom", 
+    img: "QShG7ji.png",
+    opts: { series: ["WRUK"], stage: ["st5"] }
+  },
+  {
+    name: "Xia Yuhao", 
+    img: "pmShroq.png",
+    opts: { series: ["CtL"], stage: ["st5"] }
+  },
+  {
+    name: "Zach Dempsey", 
+    img: "wiJQ9uX.png",
+    opts: { series: ["13RW"], stage: ["st5"] }
+  },
+  {
+    name: "Zero", 
+    img: "AqHdsxY.png",
+    opts: { series: ["HtF"], stage: ["st5"] }
+  },
   ];
+  
